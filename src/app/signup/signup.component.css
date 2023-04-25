@@ -1,0 +1,15 @@
+h2 {
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+    background-color: rgb(244, 177, 177);
+    border-radius: 10px;
+    width: 50%;
+
+}
+
+button {
+    margin-bottom: 50px;
+}
